@@ -1,1 +1,4 @@
-soundfiles\
+*.wav
+*.png
+*.jpg
+*.zip
